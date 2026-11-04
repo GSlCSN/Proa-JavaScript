@@ -1,0 +1,8 @@
+1-acordar
+2-levantar
+3-andar ate o banheiro
+4-pegar a escova
+5-pegar a pasta
+6-se tiver pasta colocar na escova se não abri uma pasta nova
+7-molhar a escova e pasta
+8-escovar os dentes
